@@ -3,6 +3,7 @@
 This is the organization was created to save all the projects presented by the participants of Pie & IA San Salvador
 
 ### Current [DeepLearning.AI](https://www.deeplearning.ai/) ambassadors in El Salvador
+- [Giancarlo Pablo](https://github.com/gpablo6)
 
 - [David Quintanilla](https://github.com/davequinta)
 
