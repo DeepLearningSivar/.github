@@ -7,7 +7,7 @@ This is the organization was created to save all the projects presented by the p
 
 - [David Quintanilla](https://github.com/davequinta)
 
-- [Nelson Hernández](https://github.com/nelsoncode019)
+- [Nelson Hernández](https://github.com/nelsondev19)
 - [Napoleón Pérez](https://github.com/napo178)
 
 ### FAQ
