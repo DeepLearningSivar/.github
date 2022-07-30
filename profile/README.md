@@ -25,7 +25,7 @@ Pie & AI is a series from DeepLearning. AI meetings hosted independently by the 
 
 The requirements are that you like to teach or organize AI
 events, click here to
-[apply now]("https://www.deeplearning.ai/ambassador/")
+[apply now](https://www.deeplearning.ai/ambassador/)
 </a>
 
 </details>
