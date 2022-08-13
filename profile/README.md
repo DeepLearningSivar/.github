@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organization was created to save all the projects presented by the participants of Pie & IA San Salvador
+This is the organization was created to save all the projects presented by the participants of Pie & IA: San Salvador
 
 ### [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassadors
 
