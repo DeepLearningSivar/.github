@@ -16,7 +16,7 @@ This is the organization was created to save all the projects presented by the p
 <details>
 <summary>What is a Pie & AI?</summary>
 
-Pie & AI is a series from DeepLearning. AI meetings hosted independently by the global AI community. Events typically include conversations with world leaders, thought-provoking discussions, networking opportunities with your fellow learners, hands-on project practice, and cakes (or other desserts of your choice).
+Pie & AI is a series from [DeepLearning.AI](https://www.deeplearning.ai/). AI meetings hosted independently by the [global AI community](https://www.deeplearning.ai/events/). Events typically include conversations with world leaders, thought-provoking discussions, networking opportunities with your fellow learners, hands-on project practice, and cakes (or other desserts of your choice).
 
 </details>
 
@@ -37,5 +37,5 @@ San Salvador is the capital of the country El Salvador, the Pie & AI are events 
 
 <details>
 <summary>How can I give a talk?</summary>
-You can send us an email pieaisv@gmail.com or you can also write to the ambassadors personally on Twitter
+You can send us an email **pieaisv@gmail.com** or you can also write to the ambassadors personally on Twitter
 </details>
