@@ -9,6 +9,7 @@ This is the organization was created to save all the projects presented by the p
 - [David Quintanilla](https://github.com/davequinta)
 
 - [Nelson Hernández](https://github.com/nelsondev19)
+
 - [Napoleón Pérez](https://github.com/napo178)
 
 ### FAQ
@@ -25,17 +26,17 @@ Pie & AI is a series from [DeepLearning.AI](https://www.deeplearning.ai/). AI me
 
 The requirements are that you like to teach or organize AI
 events, click here to
-[apply now](https://www.deeplearning.ai/ambassador/)
+[apply now](https://www.deeplearning.ai/ambassador/).
 </a>
 
 </details>
 
 <details>
 <summary>What is San Salvador?</summary>
-San Salvador is the capital of the country El Salvador, the Pie & AI are events in every city in the world
+San Salvador is the capital of the country El Salvador, the Pie & AI are events in every city in the world.
 </details>
 
 <details>
 <summary>How can I give a talk?</summary>
-You can send us an email **pieaisv@gmail.com** or you can also write to the ambassadors personally on Twitter
+You can send us an email *pieaisv@gmail.com* or you can also write to the ambassadors personally on Twitter.
 </details>
