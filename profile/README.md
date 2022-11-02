@@ -43,6 +43,6 @@ You can send us an email *pieaisv@gmail.com* or you can also write to the ambass
 
 ### Social Media
 
-[YouTube](https://youtube.com/channel/UCWOp60M2GAAyuGsv0RoqC4g)
+[YouTube](https://youtube.com/@pieaisv)
 [LinkedIn](https://www.linkedin.com/company/pieaisv/)
 [Twitter](https://twitter.com/pieaisv)
