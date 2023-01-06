@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-This is the organization was created to save all the projects presented by the participants of Pie & AI: San Salvador
-
 ### [DeepLearning.AI](https://www.deeplearning.ai/) Event Ambassadors
 
 - [Giancarlo Pablo](https://github.com/gpablo6)
