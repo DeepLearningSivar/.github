@@ -38,9 +38,3 @@ San Salvador is the capital of the country El Salvador, the Pie & AI are events 
 <summary>How can I give a talk?</summary>
 You can send us an email *pieaisv@gmail.com* or you can also write to the ambassadors personally on Twitter.
 </details>
-
-### Social Media
-
-[YouTube](https://youtube.com/@pieaisv)
-[LinkedIn](https://www.linkedin.com/company/pieaisv/)
-[Twitter](https://twitter.com/pieaisv)
